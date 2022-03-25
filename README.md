@@ -4,8 +4,8 @@
 ![4](https://i.ibb.co/XVbSRbF/cogs-189-7.jpg)
 ![5](https://i.ibb.co/jwkWstz/cogs-189-8.jpg)
 <img src="https://media.giphy.com/media/KdSs8Uhg5c2iwfeElB/giphy.gif" data-canonical-src="https://media.giphy.com/media/KdSs8Uhg5c2iwfeElB/giphy.gif" width="640" height="360" />
-![7](https://media.giphy.com/media/TuEQldTFVm1OYzFvpY/giphy.gif)
-![8](https://media.giphy.com/media/8XMeAqP3Rj8OhOvfP0/giphy.gif)
+<img src="https://media.giphy.com/media/TuEQldTFVm1OYzFvpY/giphy.gif" data-canonical-src="https://media.giphy.com/media/TuEQldTFVm1OYzFvpY/giphy.gif" width="640" height="360" />
+<img src="https://media.giphy.com/media/8XMeAqP3Rj8OhOvfP0/giphy.gif" data-canonical-src="https://media.giphy.com/media/8XMeAqP3Rj8OhOvfP0/giphy.gif" width="640" height="360" />
 ![9](https://i.ibb.co/2YLbVmw/cogs-189-9.jpg)
 ![10](https://i.ibb.co/WHkvynF/cogs-189-10.jpg)
 ![11](https://i.ibb.co/Zz2J07b/cogs-189-11.jpg)
