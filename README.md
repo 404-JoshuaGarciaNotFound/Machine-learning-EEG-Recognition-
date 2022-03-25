@@ -3,7 +3,7 @@
 ![3](https://i.ibb.co/QJ2SMpK/cogs-189-6.jpg)
 ![4](https://i.ibb.co/XVbSRbF/cogs-189-7.jpg)
 ![5](https://i.ibb.co/jwkWstz/cogs-189-8.jpg)
-<img src="https://media.giphy.com/media/KdSs8Uhg5c2iwfeElB/giphy.gif" data-canonical-src="https://media.giphy.com/media/KdSs8Uhg5c2iwfeElB/giphy.gif" width="670" height="370" />
+<img src="https://media.giphy.com/media/KdSs8Uhg5c2iwfeElB/giphy.gif" data-canonical-src="https://media.giphy.com/media/KdSs8Uhg5c2iwfeElB/giphy.gif" width="650" height="370" />
 ![7](https://media.giphy.com/media/TuEQldTFVm1OYzFvpY/giphy.gif)
 ![8](https://media.giphy.com/media/8XMeAqP3Rj8OhOvfP0/giphy.gif)
 ![9](https://i.ibb.co/2YLbVmw/cogs-189-9.jpg)
