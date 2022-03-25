@@ -3,7 +3,7 @@
 ![3](https://i.ibb.co/QJ2SMpK/cogs-189-6.jpg)
 ![4](https://i.ibb.co/XVbSRbF/cogs-189-7.jpg)
 ![5](https://i.ibb.co/jwkWstz/cogs-189-8.jpg)
-![6](https://giphy.com/embed/KdSs8Uhg5c2iwfeElB)
+![6](https://media.giphy.com/media/KdSs8Uhg5c2iwfeElB/giphy.gif)
 ![7](https://i.ibb.co/VHCtv8Q/Animation2.gif)
 ![8](https://i.ibb.co/9sRdTdX/Animation3.gif)
 ![9](https://i.ibb.co/2YLbVmw/cogs-189-9.jpg)
